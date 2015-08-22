@@ -84,13 +84,13 @@
 
 <h3 id="致敬">告别，致敬</h3>
 
-<div align="center"><img src="images/Aug./clowwindygb.jpg"/></div>
+<div align="center"><img src="images/Aug/clowwindygb.jpg"/></div>
 
 <p>As you see，<code>shadowsocks（<i><b>你懂的</b></i>)</code>的作者 <code>clowwindy</code>向我们说了GoodBye.
 
 <p>原因很简单，<code>有关部门</code>仰慕他的大名，请他去喝了一趟茶。起初大家对他和这个项目都忧心忡忡，后来发现担心是多余的，因为结果大家一开始就知道，这种事情已经发生过太多太多。。。</p>
 
-<div align="center"><img src="images/Aug./shagit.jpg"/></div>
+<div align="center"><img src="images/Aug/shagit.jpg"/></div>
 
 <p>是的，<code>clowwindy</code>不得不放弃了对<code>shadowsocks</code>的开发与维护，即便如此，我们还是希望有人来继续这个project，毕竟这是一个被广泛（<i><b>你懂的</b></i>)使用的fq方式,我也暂时依赖它来科学上网，谁都不希望它就这么消失。
 好消息是，有人愿意take over<code>ss</code>,但愿会把开源进行下去。
@@ -139,8 +139,8 @@
       <script src="/js/comments.js?ver=201508181654" type="text/javascript"></script>
       <script>
         $(function() {
-          var page_id = '/post/2015/Aug./The_end_of_shadowsocks.html'.trim();
-          var page_url = '/post/2015/Aug./The_end_of_shadowsocks.html'.trim();
+          var page_id = '/post/2015/Aug/The_end_of_shadowsocks.html'.trim();
+          var page_url = '/post/2015/Aug/The_end_of_shadowsocks.html'.trim();
           var id = '';
           if (page_id == '') {
               id = page_url.replace('.html', '');
