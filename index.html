@@ -1,4 +1,20 @@
 <!doctype html>
+<!--
+  Material Design Lite
+  Copyright 2015 Google Inc. All rights reserved.
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      https://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License
+-->
 <html lang="zh-cn">
   <head>
     <meta charset="utf-8">
@@ -64,10 +80,16 @@
             </div>
           </div>
           <div class="mdl-card something-else mdl-cell mdl-cell--8-col mdl-cell--4-col-desktop">
-            <button class="mdl-button mdl-js-ripple-effect mdl-js-button mdl-button--fab mdl-color--pink">
+            <button id="linkbtn" class="mdl-button mdl-js-ripple-effect mdl-js-button mdl-button--fab mdl-color--pink">
               <i class="material-icons mdl-color-text--white" role="presentation">add</i>
               <span class="visuallyhidden">add</span>
             </button>
+            <ul class="mdl-menu mdl-js-menu mdl-menu--bottom-right" for="linkbtn">
+              <li class="mdl-menu__item mdl-js-ripple-effect"><a href="https://biergaizi.info">比尔盖子的博客</a></li>
+              <li class="mdl-menu__item mdl-js-ripple-effect"><a href="https://blog.papdt.info">纸飞机的停机坪</a></li>
+              <li class="mdl-menu__item mdl-js-ripple-effect"><a href="https://www.lunaticm.com">LunaticM's</a></li>
+              <li class="mdl-menu__item mdl-js-ripple-effect"><a href="http://feng.moe">烧饼的小窝</a></li>
+            </ul>
             <div class="mdl-card__media mdl-js-button mdl-js-ripple-effect mdl-color--white mdl-color-text--black-500">
               <img src="images/logo.png">
               <h4>Charles</h4>
