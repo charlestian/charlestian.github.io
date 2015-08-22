@@ -478,6 +478,11 @@ body .demo-blog {
 .demo-blog .amazing .mdl-card__title {
   background-color: #263238;
 }
+
+.demo-blog .pink2-color .mdl-card__title {
+    background-color: #FF4081;
+}
+
 .demo-blog .minilogo {
   width: 44px;
   height: 44px;
