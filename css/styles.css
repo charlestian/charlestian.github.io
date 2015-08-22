@@ -563,3 +563,7 @@ body .demo-blog {
 .demo-blog code {
     color: #795548;
 }
+
+.demo-blog .blog-entry .mdl-card__media {
+  background-image: url('../images/aria.jpg');
+}

@@ -50,6 +50,10 @@
     background-color: #3F51B5;
 }
 
+.demo-blog .pink2-color .mdl-card__media {
+    background-color: #FF4081;
+}
+
 .demo-blog .blue-color .mdl-card__media {
     background-color: #2196F3;
 }
